@@ -1,0 +1,118 @@
+.flashcard {
+  border: 5px solid blue;
+  border-spacing: 5px;
+  margin: 10px;
+  padding: 10px;
+  margin: auto;
+  width: 250px;
+  height: 300px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: lightgray;
+}
+
+.flashcard:hover {
+  background-color: teal;
+}
+
+.container {
+  margin: auto;
+}
+
+div.flashcard h1 {
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  margin-top: 33%;
+}
+
+div.flashcard h1:hover {
+  color: orange;
+}
+
+h1:hover {
+  cursor: pointer;
+}
+
+#flashcard1show {
+  display: none;
+}
+
+#flashcard2show {
+  display: none;
+}
+
+#flashcard3show {
+  display: none;
+}
+
+#flashcard4show {
+  display: none;
+}
+
+#flashcard5show {
+  display: none;
+}
+
+#flashcard6show {
+  display: none;
+}
+
+#flashcard7show {
+  display: none;
+}
+
+#flashcard8show {
+  display: none;
+}
+
+#flashcard9show {
+  display: none;
+}
+
+#flashcard10show {
+  display: none;
+}
+
+#flashcard11show {
+  display: none;
+}
+
+#flashcard12show {
+  display: none;
+}
+
+#flashcard13show {
+  display: none;
+}
+
+#flashcard14show {
+  display: none;
+}
+
+#flashcard15show {
+  display: none;
+}
+
+#flashcard16show {
+  display: none;
+}
+
+#flashcard17show {
+  display: none;
+}
+
+#flashcard18show {
+  display: none;
+}
+
+#flashcard19show {
+  display: none;
+}
+
+#headerTitle {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 3px 2px teal;
+
+}
